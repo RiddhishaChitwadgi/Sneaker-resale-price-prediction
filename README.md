@@ -5,10 +5,11 @@ This repository contains the code and resources for the Sneaker Resale Market An
 
 ## Project Structure
 The repository is organized as follows:
-- `01-Data-Cleaning/`: Contains Jupyter Notebook for Data Preprocessing.
-- `02-EDA/`: Contains the Jupyter Notebook for Exploratory Data Analysis.
-- `dashboards/`: Contains the dashboard files created using Tableau for visualizing the analysis results.
+- `01-Data-Cleaning`: Contains Jupyter Notebook for Data Preprocessing.
+- `02-EDA`: Contains the Jupyter Notebook for Exploratory Data Analysis.
+- `dashboards`: Contains the dashboard files created using Tableau for visualizing the analysis results.
 - `README.md`: This README file providing an overview of the project.
+- `requirements.txt`: Contains module requirements for the scripts.
   
 ## Dataset Availability
 Please note that the actual dataset used for analysis cannot be shared publicly due to a signed Non-Disclosure Agreement (NDA) with the data provider. 
