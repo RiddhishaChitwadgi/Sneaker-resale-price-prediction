@@ -18,7 +18,7 @@ Please note that the actual dataset used for analysis cannot be shared publicly 
 
 You can view my Tableau Public profile to explore the interactive dashboards created for this project:
 
-[Tableau Public - RiddhishaChitwadgi](https://public.tableau.com/profile/riddhisha.chitwadgi)
+[Tableau Public - RiddhishaChitwadgi](https://public.tableau.com/profile/riddhisha.chitwadgi/viz/Dashboard_17081095922150/Dashboard1)
 
 ## Cloning Instructions
 
