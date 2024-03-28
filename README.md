@@ -7,9 +7,11 @@ This repository contains the code and resources for the Sneaker Resale Market An
 The repository is organized as follows:
 - `01-Data-Cleaning.ipynb`: Contains Jupyter Notebook for Data Preprocessing.
 - `02-EDA.ipynb`: Contains the Jupyter Notebook for Exploratory Data Analysis.
-- `dashboard.png`: Contains the dashboard image created using Tableau for visualizing the analysis results.
+- `03-Time-series-Forecasting.ipynb`: Contains the Jupyter Notebook for Time Series Forecasting.
 - `README.md`: This README file providing an overview of the project.
 - `requirements.txt`: Contains module requirements for the scripts.
+- `Sales Overview Dashboard.png`: Image file for the sales overview dashboard.
+- `Top brands overview.png`: Image file for the top brands overview.
   
 ## Dataset Availability
 Please note that the actual dataset used for analysis cannot be shared publicly due to a signed Non-Disclosure Agreement (NDA) with the data provider. 
